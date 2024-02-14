@@ -1,1 +1,2 @@
-# primeiros-passos-com-javascript1
+# Primeiros Passos  com JavaScript
+Alguns códigos básicos em JavaScript+resumos.
